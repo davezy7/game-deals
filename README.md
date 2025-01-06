@@ -1,3 +1,3 @@
-# riverpod_cheapshark
+# Cheapshark API
 
-A new Flutter project.
+Flutter Project made with Dio & Flutter Riverpod.
